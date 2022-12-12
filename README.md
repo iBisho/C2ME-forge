@@ -20,7 +20,7 @@ So backup your worlds and practice good game modding skills.
 
 ## Building and setting up
 
-Run the following commands in the root directory:
+Run the following commands in the root directory: 
 
 ```shell
 ./gradlew clean build
